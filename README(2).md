@@ -1,6 +1,6 @@
 # Healthcare Waiting List Analysis Dashboard
 
-![img alt][https://tse4.mm.bing.net/th/id/OIP.ADQb3jYZVA2cMcKUVV8GTwHaEc?r=0&pid=Api&P=0&h=180]
+![Healthcare Dashboard](https://tse4.mm.bing.net/th/id/OIP.ADQb3jYZVA2cMcKUVV8GTwHaEc?r=0&pid=Api&P=0&h=180)
 
 ## 📊 Project Overview
 
