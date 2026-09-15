@@ -1,8 +1,6 @@
 # Healthcare Waiting List Analysis Dashboard
 
-<p align="center">
-  <img src="assets/dashboard-summary.png" alt="Healthcare Waiting List Dashboard - Summary" width="100%">
-</p>
+![img alt][https://tse4.mm.bing.net/th/id/OIP.ADQb3jYZVA2cMcKUVV8GTwHaEc?r=0&pid=Api&P=0&h=180]
 
 ## 📊 Project Overview
 
