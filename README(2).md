@@ -131,7 +131,7 @@ The Power BI report contains two main analytical views:
 ### 1. Summary Dashboard
 
 <p align="center">
-  <img src="C:\Users\vikra\OneDrive\Pictures\Screenshots\Screenshot 2026-09-15 161631.png" alt="Summary Dashboard" width="100%">
+  <img src="https://github.com/VikrantPatel2/Healthcare/blob/06604290fe8a6230bfef4908e7ada52aec39ee9c/Summary.png" alt="Summary Dashboard" width="100%">
 </p>
 
 The Summary page provides a high-level view of the waiting-list situation.
