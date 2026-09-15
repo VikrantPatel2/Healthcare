@@ -133,7 +133,7 @@ The Power BI report contains two main analytical views:
 ### 1. Summary Dashboard
 
 <p align="center">
-  <img src="assets/dashboard-summary.png" alt="Summary Dashboard" width="100%">
+  <img src="C:\Users\vikra\OneDrive\Pictures\Screenshots\Screenshot 2026-09-15 161631.png" alt="Summary Dashboard" width="100%">
 </p>
 
 The Summary page provides a high-level view of the waiting-list situation.
@@ -189,7 +189,7 @@ The bottom section tracks waiting-list movement over time, including separate tr
 ## 🔎 Detailed View
 
 <p align="center">
-  <img src="assets/dashboard-detail.png" alt="Detailed Dashboard View" width="100%">
+  <img src="C:\Users\vikra\OneDrive\Pictures\Screenshots\Screenshot 2026-09-15 161821.png" alt="Detailed Dashboard View" width="100%">
 </p>
 
 The Detailed View provides a more granular representation of the waiting-list data.
