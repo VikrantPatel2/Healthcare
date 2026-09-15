@@ -187,7 +187,7 @@ The bottom section tracks waiting-list movement over time, including separate tr
 ## 🔎 Detailed View
 
 <p align="center">
-  <img src="C:\Users\vikra\OneDrive\Pictures\Screenshots\Screenshot 2026-09-15 161821.png" alt="Detailed Dashboard View" width="100%">
+  <img src="https://github.com/VikrantPatel2/Healthcare/blob/ab81b4b95deb4217abab1e722c92251831fc33a2/Detailed.png" alt="Detailed Dashboard View" width="100%">
 </p>
 
 The Detailed View provides a more granular representation of the waiting-list data.
